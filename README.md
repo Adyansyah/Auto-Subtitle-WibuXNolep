@@ -73,7 +73,7 @@ Type on your CMD or Terminal :
 - Clone this Repository
 
 ```
-git clone https://github.com/daffaarizkyy/auto-subtitle-ofa.git
+git clone https://github.com/Adyansyah/Auto-Subtitle-WibuXNolep
 ```
 
 - cd to your directory (on where's you clone this project)
